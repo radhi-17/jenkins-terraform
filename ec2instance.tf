@@ -9,3 +9,4 @@ key_name = "tkey"
 tags = {
   Name = "myec2"
 }
+}  
