@@ -6,7 +6,6 @@ ami = "ami-0022f774911c1d690"
 instance_type = "t2.micro"
 availability_zone = "us-east-1a"
 key_name = "tkey"
-public_ip = true
 tags = {
   Name = "myec2"
 }
