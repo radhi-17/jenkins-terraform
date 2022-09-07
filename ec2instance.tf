@@ -1,5 +1,6 @@
 provider "aws" {
 region = "us-east-1"
+version = "v2.70.0"
 }
 resource "aws_instance" "myec2" {
 ami = "ami-0022f774911c1d690"
